@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func Add(a, b int) int { // функция
+func Add(a, b int) int { // функцияпше дщп
 	return a + b
 }
 
